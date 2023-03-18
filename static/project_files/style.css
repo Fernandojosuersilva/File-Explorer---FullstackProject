@@ -1,0 +1,49 @@
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.breadcrumb{
+    background-color: #515161;
+    border-radius: 0;
+}
+
+a, a:hover{
+    color: #AEBD38;
+}
+
+.table{
+    color: #68829E;
+    margin-top: 100px;
+}
+
+thead{
+    background-color: #68829E;
+    color: #fff;
+    cursor: pointer;
+}
+
+tbody ion-icon{
+    color: #68829E;
+    font-size: 20px;
+}
+
+tbody{
+    display: block;
+    height: 300px;
+    overflow-y: scroll;
+}
+
+thead,  tbody tr{
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+.footer{
+    background-color: #515161;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+}

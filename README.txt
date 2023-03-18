@@ -1,0 +1,2 @@
+Purpose of the project:
+This app was created using pure Node.Js to gain a thorough understanding of Node. There are easier ways of building this project using external modules, but the purpose of this project is DO NOT miss out on many code concepts.

@@ -1,0 +1,4 @@
+https://slice-fruit-game.netlify.app
+
+GitHub:
+https://github.com/Fernandojosuersilva/Slice-Fruit-Game
